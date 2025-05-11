@@ -1,11 +1,14 @@
 
-<center>
+<div align="center">
+<sub>
 My old cat just past away
-</center>
+</sub>
+</div>
 
 ---
 
-<center>In both the way of Nature and Grace </center>. 
+
+<div align="center">In both the way of Nature and Grace </div>. 
 
 ---
 
