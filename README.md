@@ -1,3 +1,4 @@
+
 <center>
 My old cat just past away
 </center>
@@ -13,7 +14,7 @@ This was a stray cat, and she is the only cat I know that died because of so old
 
 --- 
 
-My mother met her when she was already mature. I thought she was hungry and was moving around from house to house when she received food from my family.
+My mother met her when she was already mature. I thought she was hungry and was moving around from house to house before she received food from my family.
 
 That how stray cats always lived in the wild. 
 
